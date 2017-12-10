@@ -1,0 +1,7 @@
+{
+  "name": "ChatPelizzY",
+  "description": "Node.js + Socket.io Chat",
+  "repository": "https://github.com/PellizY/ChatPellizY",
+  "logo": "https://cdn.livechatinc.com/website/media/img/resources/logos/livechat_384x212.png",
+  "keywords": ["chat", "nodejs", "socketio"]
+}
